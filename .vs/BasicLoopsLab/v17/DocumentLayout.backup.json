@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barla\\source\\repos\\BasicLoopsLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA60CC57-A06A-4ADE-BB20-60CB4F733282}|BasicLoopsLab\\BasicLoopsLab.csproj|c:\\users\\barla\\source\\repos\\basicloopslab\\basicloopslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA60CC57-A06A-4ADE-BB20-60CB4F733282}|BasicLoopsLab\\BasicLoopsLab.csproj|solutionrelative:basicloopslab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\barla\\source\\repos\\BasicLoopsLab\\BasicLoopsLab\\Program.cs",
+              "RelativeDocumentMoniker": "BasicLoopsLab\\Program.cs",
+              "ToolTip": "C:\\Users\\barla\\source\\repos\\BasicLoopsLab\\BasicLoopsLab\\Program.cs",
+              "RelativeToolTip": "BasicLoopsLab\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:11:22.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

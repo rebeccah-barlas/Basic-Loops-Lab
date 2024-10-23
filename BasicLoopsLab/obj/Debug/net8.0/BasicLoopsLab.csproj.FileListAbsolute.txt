@@ -1,0 +1,14 @@
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net8.0\BasicLoopsLab.exe
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net8.0\BasicLoopsLab.deps.json
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net8.0\BasicLoopsLab.runtimeconfig.json
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net8.0\BasicLoopsLab.dll
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\bin\Debug\net8.0\BasicLoopsLab.pdb
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\BasicLoopsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\BasicLoopsLab.AssemblyInfoInputs.cache
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\BasicLoopsLab.AssemblyInfo.cs
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\BasicLoopsLab.csproj.CoreCompileInputs.cache
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\BasicLoopsLab.dll
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\refint\BasicLoopsLab.dll
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\BasicLoopsLab.pdb
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\BasicLoopsLab.genruntimeconfig.cache
+C:\Users\barla\source\repos\BasicLoopsLab\BasicLoopsLab\obj\Debug\net8.0\ref\BasicLoopsLab.dll
